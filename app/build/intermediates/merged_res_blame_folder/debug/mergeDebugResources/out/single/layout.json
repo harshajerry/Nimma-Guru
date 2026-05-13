@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_add_schedule.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_add_schedule.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.nimmaguru.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_applications.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_applications.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_apply.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_apply.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_schedule_card.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_application.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_application.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_guru_detail.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_detail.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_appreciation.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_appreciation.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_application_card.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_application_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_register.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_my_schedule.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_my_schedule.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_selected_slot.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_selected_slot.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_guru_card.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_guru_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_schedule_student.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_student.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_guru_list.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_list.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_guru_schedule.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_schedule.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_guru_edit_profile.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_guru_dashboard.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_dashboard.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/item_schedule_guru.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_guru.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_calendar.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-mergeDebugResources-37:/layout/activity_student_dashboard.xml",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_student_dashboard.xml"
+    }
+]

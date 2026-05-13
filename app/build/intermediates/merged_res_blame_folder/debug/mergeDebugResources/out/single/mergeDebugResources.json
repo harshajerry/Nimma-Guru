@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_pill_primary.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/pill_primary.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_pill_success.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/pill_success.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_btn_signout_bg.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/btn_signout_bg.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_spinner_bg.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/spinner_bg.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_green_light.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_green_light.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_apply.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_apply.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_badge_red.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/badge_red.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_pill_blue.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/pill_blue.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_saffron.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_saffron.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_toggle_lang_bg.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/toggle_lang_bg.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_register.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_ic_logout.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_guru_edit_profile.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_toggle_lang_bg_white.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/toggle_lang_bg_white.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_white_alpha.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_white_alpha.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_accent_light.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_accent_light.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_primary.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_primary.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_schedule_card.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_blue_light.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_blue_light.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_bg_gradient_header.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/bg_gradient_header.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/anim_btn_press.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/anim/btn_press.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_applications.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_applications.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_saffron_light.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_saffron_light.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_circle_white.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/circle_white.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_student_dashboard.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_student_dashboard.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/color_chip_text_selector.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/color/chip_text_selector.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_guru_card.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_guru_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/color_chip_selector.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/color/chip_selector.xml"
+    },
+    {
+        "merged": "com.nimmaguru.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "com.nimmaguru.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/color_input_stroke_selector.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/color/input_stroke_selector.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_appreciation.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_appreciation.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_pill_saffron.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/pill_saffron.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_schedule_guru.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_guru.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_application_card.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_application_card.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/menu_menu_dashboard.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/menu/menu_dashboard.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/anim_fade_in.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_my_schedule.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_my_schedule.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_add_schedule.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_add_schedule.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/menu_menu_logout.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/menu/menu_logout.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_application.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_application.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/anim_slide_up.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_selected_slot.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_selected_slot.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_calendar.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_item_schedule_student.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/item_schedule_student.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_guru_dashboard.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_dashboard.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_pill_outline.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/pill_outline.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_guru_detail.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_detail.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/color_chip_bg_selector.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/color/chip_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_guru_schedule.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_schedule.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/drawable_bg_card_elevated.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/drawable/bg_card_elevated.xml"
+    },
+    {
+        "merged": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-debug-38:/layout_activity_guru_list.xml.flat",
+        "source": "/Users/harshajerry/.gradle/daemon/9.0.0/com.nimmaguru.app-main-40:/layout/activity_guru_list.xml"
+    }
+]
